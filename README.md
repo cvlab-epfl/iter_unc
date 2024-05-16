@@ -1,5 +1,7 @@
 # Enabling Uncertainty Estimation in Iterative Neural Networks
 
+![Project Page](./src/teaser.gif)
+
 [![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2403.16732-blue?logo=arxiv&color=red)](https://arxiv.org/abs/2403.16732)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&color=blue)](https://www.python.org/downloads/release/python-31014/)
 [![Pytorch](https://img.shields.io/badge/Pytorch-2.2.1-blue?logo=pytorch&color=blue)](https://pytorch.org/)
