@@ -17,7 +17,10 @@ Turning pass-through network architectures into iterative ones, which use their 
 
 ## TL;DR
 
-![Project Page](./src/cover.png)
+<p align="center">
+  <img src="./src/cover.png" alt="Project or Page Cover" width="75%"/>
+</p>
+
 
 **Uncertainty in recursive models:** Such models use their initial predictions as inputs to produce subsequent predictions. We display the output of three consecutive iterations of a network trained to compute distance maps to road pixels. **(Top:)** All roads are clearly visible. The three maps are similar and the per pixel variance is low. **(Bottom:)** The road in the red square is tree-covered. It is eventually detected properly but the variance is high.
 
