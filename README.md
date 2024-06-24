@@ -9,7 +9,9 @@
 
 ### [Project Page](https://www.norange.io/projects/unc_iter/) | [ICML Paper]() | [Poster](https://icml.cc/virtual/2024/poster/34213)
 
+> **For a quick tryout of the method, check the Colab notebooks below!**
 
+> **Please also refer to the [Zigzag](https://github.com/cvlab-epfl/zigzag) paper, which served as the foundation for our work.**
 
 ## Abstract
 
@@ -55,5 +57,17 @@ If you find this code useful, please consider citing our paper:
     author={Nikita Durasov and Doruk Oner and Jonathan Donier and Hieu Le and Pascal Fua},
     booktitle={Forty-first International Conference on Machine Learning},
     year={2024}
+}
+```
+
+> Durasov, Nikita, et al. "ZigZag: Universal Sampling-free Uncertainty Estimation Through Two-Step Inference." TMLR 20224.
+
+```bibtex
+@article{durasov2024zigzag,
+    title = {ZigZag: Universal Sampling-free Uncertainty Estimation Through Two-Step Inference},
+    author = {Nikita Durasov and Nik Dorndorf and Hieu Le and Pascal Fua},
+    journal = {Transactions on Machine Learning Research},
+    issn = {2835-8856},
+    year = {2024}
 }
 ``` 
