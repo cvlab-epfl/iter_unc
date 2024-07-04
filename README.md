@@ -34,11 +34,11 @@ Turning pass-through network architectures into iterative ones, which use their 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cvlab-epfl/iter_unc/blob/main/exps/notebooks/toy_regression.ipynb)
 
-### MNIST Classification (TBD)
+### MNIST Classification
 
 **MNIST vs FashionMNIST:** We train the networks on MNIST and compute the accuracy and calibration metrics (rAULC). We then use the uncertainty measure they produce to classify images from the test sets of MNIST and FashionMNIST as being within the MNIST distribution or not to compute the OOD metrics, ROC- and PR-AUCs. We use a standard architecture with several convolution and pooling layers, followed by fully connected layers with LeakyReLU activations.
 
-[![Open in Colab (TBD)](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cvlab-epfl/iter_unc/blob/main/exps/notebooks/mnist_classification.ipynb)
 
 ### Delineation Experiments (TBD)
 
